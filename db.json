@@ -1,0 +1,24 @@
+{
+    "friends": [
+        {
+          "id": 1,
+          "name": "Alvin",
+          "gender": "male"
+        },
+        {
+            "id": 2,
+            "name": "John",
+            "gender": "male"
+          },
+          {
+            "id": 3,
+            "name": "Jane",
+            "gender": "female"
+          },
+          {
+            "id": 4,
+            "name": "Mary",
+            "gender": "female"
+          }
+    ]
+}
